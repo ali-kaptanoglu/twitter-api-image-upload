@@ -7,3 +7,5 @@ Bunu yapmamın sebebi php ile twitter botu oluşturmak. insanlar @resimbot etike
 bu kadarlık kısmını koyuyorum. Devamını sizler yaparsınız.
 
 Twitter api keyleri olarak eski mac for twitter ortalıkta dolaşan yapıyı kullandım bunlarla token alabilirsiniz ya da twitter api ye başvurmanız gerekiyor..
+
+composer require abraham/twitteroauth ~3.1.0
